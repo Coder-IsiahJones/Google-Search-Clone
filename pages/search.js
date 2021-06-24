@@ -7,8 +7,6 @@ import Response from "../Respone"
 import { useRouter } from "next/router"
 
 const Search = ({ results }) => {
-  console.log(results)
-
   const router = useRouter()
   return (
     <div>
