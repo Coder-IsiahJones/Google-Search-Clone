@@ -22,7 +22,6 @@ const Header = () => {
   return (
     <header className='sticky top-0 bg-white'>
       <div className='flex w-full p-6 items-center'>
-        
         <Image
           src='https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png'
           width={120}
